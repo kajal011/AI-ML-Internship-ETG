@@ -1,0 +1,19 @@
+****************************************************************************************
+Product ID: 1002 
+Product Name: Barbon 
+Quantity: 3
+
+Product ID: 1020 
+Product Name: Pineapple Juice 
+Quantity: 7
+
+Product ID: 1007 
+Product Name: Cape Gooseberries Juice 
+Quantity: 6
+
+Product ID: 1030 
+Product Name: Pulm Juice 
+Quantity: 3
+----------------------------------------
+ Your Payable Amount: 760
+****************************************************************************************
